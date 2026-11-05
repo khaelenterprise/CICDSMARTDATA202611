@@ -1,2 +1,2 @@
-# CICDSMARTDATA202611
-Repositorio CI/CD con Databricks y github del curso de ingenieria de datos con IA
+# CICDSMARTDATA2309
+este proyecto consta de la clase de ingenieria de datos e ai con databricks de CICD entre ambientes de databricks.
